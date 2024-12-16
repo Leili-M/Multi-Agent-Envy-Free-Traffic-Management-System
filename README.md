@@ -11,3 +11,21 @@ After covering 85% of the path, the agent will initiate deceleration for a smoot
 At the end of the simulation, the optimal time and travel time for each agent will be printed.
 In this implementation, it is assumed that no unexpected events will occur, and each agent moves according to its optimal path. There is no need for calculations at each intersection.
 
+## How to Run
+
+To run the simulation, simply execute the Python file `animation.py` to view the animation. You can modify the agents and graphs according to your preferences in this file.
+
+### Required Modules
+Make sure you have Python installed on your system. The required modules are:
+
+- `networkx`
+- `matplotlib`
+
+You can install them using `pip`:
+
+```bash
+pip install networkx matplotlib
+
+
+
+
