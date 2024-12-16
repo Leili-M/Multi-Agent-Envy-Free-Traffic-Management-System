@@ -9,4 +9,5 @@ To make the agents' movement more realistic, their speed is adjusted based on a 
 After covering 85% of the path, the agent will initiate deceleration for a smoother stop.
 
 At the end of the simulation, the optimal time and travel time for each agent will be printed.
+#Note : In this implementation, it is assumed that no unexpected events will occur, and each agent moves according to its optimal path. There is no need for calculations at each intersection.
 
